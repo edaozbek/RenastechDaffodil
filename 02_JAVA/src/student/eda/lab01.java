@@ -15,5 +15,9 @@ public class lab01 {
             reverse+=wishYouLuck.charAt(i);
         }
         return reverse;
+
+
     }
+
+
 }
