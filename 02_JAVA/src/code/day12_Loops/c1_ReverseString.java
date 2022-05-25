@@ -34,7 +34,7 @@ public class c1_ReverseString {
         //i need to go from last to first one by one
         //iteration -1
 
-        //besiktas  total legth 8 last index 7
+        //besiktas  total length 8 last index 7
         //reverse = char7 + char6 + char5 ....... char0
         for (int i = lastIndex ; i >=0 ; i--){
             System.out.println("i = " + i); //prints index from last to first
